@@ -1,0 +1,23 @@
+ul{
+    list-style-type: none;
+    width: 100%;
+    background-color: aquamarine;
+}
+ul li{
+    display: inline-block;
+    padding: 20px;
+    margin-left: -40px;
+    margin-right: 80px;
+    text-decoration: none;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: bisque;
+    transition: 0.5s;
+}
+i{
+    padding-right: 10px;
+}
